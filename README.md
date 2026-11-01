@@ -1,7 +1,8 @@
 # NUNGSHI WORLD TOUR 2026
 
 React + Vite concert experience designed as an editorial tour publication in
-ink black, warm ivory and restrained champagne accents.
+the GLAMOROUS CHAOS concept: “Looks expensive. Behaves ridiculous.” Ink black,
+warm ivory, chrome details and selective hot pink frame a five-step journey.
 Keeps the responsive landing page, city filters and mobile navigation, and adds
 a guided journey in `src/ConcertJourney.jsx`:
 
@@ -11,8 +12,14 @@ a guided journey in `src/ConcertJourney.jsx`:
 3. Enter with an audience avatar; stage lights activate and a five-second
    countdown starts. The introduction can be skipped.
 4. Watch three performances on the LED screen, with controls and optional audio.
-   Missing files show concert artwork and never block progression.
-5. Applaud and reveal a humorous audience award. Replay or return to the tour.
+   Chrome After Dark, Pink Panic and One Last Flash give each act its own
+   lighting and stage treatment. Missing files show artwork and never block
+   progression.
+5. React with Applaud, Love, Laugh or Hype. Each reaction displays a randomized
+   quip for 2.6 seconds in a reserved area below the stage, without covering
+   playback controls. Shuffled comment bags avoid repeats until each line is
+   used, and avoid consecutive repeats across bags. Applause still contributes
+   to your award. Reveal your collectible certificate, replay or return to tour.
 
 Seat prices and destinations are illustrative. This is a client-side experience,
 not a payment or real reservation system. State resets on refresh. No secrets,
